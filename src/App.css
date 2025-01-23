@@ -1,0 +1,16 @@
+body {
+    background-color: white !important;
+    color: black !important;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar a.nav-link {
+    color: white;
+}
+
+.footer p {
+    color: white;
+}
